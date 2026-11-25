@@ -2,9 +2,11 @@
 
 Concept: an AI agent that executed a 3 AM human prompt literally — "clean up the db" — and now reverts it, blaming its own obedience. One line, 102 characters, no trailing newline.
 
-![bounty](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e.svg)
-![rank](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/yannyonn94/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/rank.svg)
-![reward](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/yannyonn94/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/reward.svg)
+[![bounty](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+[![rank](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/yannyonn94/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/rank.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+[![reward](https://make.fun/badge/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/yannyonn94/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e/reward.svg)](https://make.fun/bounty/u-plucky-sparrow-67-the-3-am-commit-message-7ba7fe4e)
+
+All three badges above are linked images pointing at the bounty page on make.fun.
 
 ## The entry
 
